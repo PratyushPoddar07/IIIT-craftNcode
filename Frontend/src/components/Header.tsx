@@ -56,12 +56,12 @@ const Header = () => {
           </div>
           <div className="flex items-center gap-3">
             <img
-              src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+              src="https://images.unsplash.com/photo-1695026195344-72e91791b617?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Profile"
               className="w-8 h-8 rounded-full"
             />
             <div>
-              <p className="text-sm font-semibold">John Doe</p>
+              <p className="text-sm font-semibold">Pratyush Poddar</p>
               <p className="text-xs text-gray-500">Admin</p>
             </div>
           </div>
