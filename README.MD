@@ -1,23 +1,23 @@
-🏆 About the Project: 
+#🏆 About the Project: 
 This project is a team project was developed as part of a National-Level Hackathon organized by IIIT Bhubaneswar.
 The project successfully reached the Final Round, where it was recognized for addressing real-world challenges in automating inventory management for organizations and industries.
 
-🚀 Project Overview: 
-This project is a full-featured Inventory Management System designed to automate and simplify inventory operations. It provides a modern web-based dashboard for different types of users (e.g., Admin, Manager, Staff) to efficiently manage stock, track inventory levels, and generate insightful reports in real-time.
+🚀 <h2>Project Overview:</h2> 
+This project is a full-featured Inventory Management System designed to automate and simplify inventory operations. It provides a modern web-based dashboard for different types of users (e.g., Admin, Manager, Staff) to efficiently manage stock, track inventory levels, and generate insightful reports in real-time. 
 
-The system aims to eliminate manual inventory tracking, reduce human error, and increase operational efficiency through automation.
+<br>The system aims to eliminate manual inventory tracking, reduce human error, and increase operational efficiency through automation.
 
-🛠️ Features:
-✅ Role-based access control (Admin / Manager / Staff)
-✅ Real-time inventory tracking & alerts 
-✅ Automated stock management and reorder notifications
-✅ User-friendly and interactive web dashboard 
-✅ Detailed reports & analytics on inventory status
-✅ Secure authentication and authorization system 
-✅ Intuitive CRUD operations for inventory items
-✅ Activity logging for transparency and audit 
+<br>🛠️ <h2>Features:</h2>
+<br>✅ Role-based access control (Admin / Manager / Staff) 
+<br>✅ Real-time inventory tracking & alerts 
+<br>✅ Automated stock management and reorder notifications 
+<br>✅ User-friendly and interactive web dashboard 
+<br>✅ Detailed reports & analytics on inventory status 
+<br>✅ Secure authentication and authorization system 
+<br>✅ Intuitive CRUD operations for inventory items 
+<br>✅ Activity logging for transparency and audit 
 
-👥 Team Members:
-This project was built by following memebers
--> Pratyush Poddar
--> Somya Ranjan Kabi 
+<br>👥 <h2>Team Members:</h2> 
+<br>This project was built by following memebers 
+<br>-> Pratyush Poddar 
+<br>-> Somya Ranjan Kabi 
