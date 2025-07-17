@@ -1,4 +1,4 @@
-#🏆 About the Project: 
+<h1>🏆 About the Project:</h1> 
 This project is a team project was developed as part of a National-Level Hackathon organized by IIIT Bhubaneswar.
 The project successfully reached the Final Round, where it was recognized for addressing real-world challenges in automating inventory management for organizations and industries.
 
